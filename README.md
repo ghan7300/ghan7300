@@ -1,20 +1,13 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Ghanshyam Sharma</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h3 align="center">A passionate Software Engineer From India. I work in Corporate IT Sector and in my free time.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🌱 I’m currently learning 
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **masteraadi246@gmail.com**
-
+- 👨‍💻 All of my projects are available at [https://github.com/ghan7300/ghan7300)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
