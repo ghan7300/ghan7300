@@ -1,12 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Ghanshyam Sharma</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <h3 align="center">A passionate Software Engineer From India. I work in the Corporate IT Sector and love working on innovative projects in my free time.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🌱 I’m currently learning new skills in Java, Spring Boot, Angular, and cloud technologies.
-- 👨‍💻 All of my projects are available at [https://github.com/ghan7300/ghan7300)
+- 🌱 I’m currently updating myself and work on skills in Java, Spring Boot, Angular, and cloud technologies learner.
 
 <h3 align="left">Profile:</h3>
 <p align="left">
@@ -32,12 +29,16 @@
 <h3 align="left">Employment History:</h3>
 <ul>
   <li>3i Infotech Ltd. (Jul 2021 - Apr 2023)</li>
-  <ul>
+<ul>
     <li>Project: Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)</li>
     <li>Technologies: Java, Spring Boot, Hibernate, SQL, REST API, Maven, Angular 8, Git, Azure, DBEaver, Eclipse IDE</li>
     <li>Role: Developed REST APIs, user interfaces using Angular 8, database tables with MySQL, and DAO classes.</li>
-  </ul>
+      <br>  
+  <li>Project: PUNBUS</li>
+    <li>Technologies: Java, Spring Boot, SQL, REST API, Maven, Hibernate, Git, Angular 8</li>
+    <li>Role: Involved in the development of backend REST services, and front-end UI with Angular, and integrated MySQL database.</li>
 </ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
